@@ -1,0 +1,5 @@
+#!/bin/bash
+mv 2-print_alphabet.c /0x01-variables_if_else_while
+mv 3-print_alphabets.c /0x01-variables_if_else_while
+mv 4-print_alphabt.c /0x01-variables_if_else_while
+mv 3-print_alphabets /0x01-variables_if_else_while
